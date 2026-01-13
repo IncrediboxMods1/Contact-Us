@@ -6,3 +6,6 @@ You can contact us reporting a user who makes wrong things it breaks our rules, 
 
 # Reporting a Bug
 To report a bug, go [reporting an issue](https://github.com/IncrediboxMods1/IncrediboxMods1/issues) on my profile!
+
+# Contact Us on CodeTorch
+You can contact us on CodeTorch [commenting a comment](https://codetorch.net/pt/users/Incredibox-Dev-Tools)
